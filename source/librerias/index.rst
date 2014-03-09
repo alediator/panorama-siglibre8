@@ -15,7 +15,7 @@ Opción 2:
 .. raw:: html
 
     <div style="margin-top:10px;">
-      <iframe width="1080" height="800" src="http://wiki.osgeo.org/wiki/Panorama_SIG_Libre_2014/Librer%C3%ADas?printable=true" frameborder="0" allowfullscreen></iframe>
+      <iframe width="1080" height="800" src="http://wiki.osgeo.org/index.php?title=Panorama_SIG_Libre_2014/Librer%C3%ADas&printable=yes" frameborder="0" allowfullscreen></iframe>
     </div>
 
 
